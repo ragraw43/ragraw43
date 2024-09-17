@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ragraw43
+- 👋 Hi, I’m rudra agrawal.
 - 👀 I’m interested in Frontend coding
 - 🌱 I’m currently learning C language
 - 📫 How to reach me: You can reach out to me via linkedln, www.linkedln/in/rudraagrawal202.
